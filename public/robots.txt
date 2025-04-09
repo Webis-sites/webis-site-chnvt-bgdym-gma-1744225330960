@@ -1,0 +1,7 @@
+
+    # robots.txt for חנות בגדים גמא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://חנות-בגדים-גמא.com/sitemap.xml
