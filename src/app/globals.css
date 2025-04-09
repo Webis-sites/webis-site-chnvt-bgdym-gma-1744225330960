@@ -15,6 +15,15 @@
   --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.2);
   --border-radius-button: 9999px;
   --transition-speed: 0.3s;
+
+  --card-shadow: 8px 8px 16px rgba(0, 0, 0, 0.05), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --card-shadow-hover: 12px 12px 20px rgba(0, 0, 0, 0.07), -12px -12px 20px rgba(255, 255, 255, 0.9);
+  --card-inset-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.05), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
+  --glass-background: rgba(255, 255, 255, 0.25);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.4);
+  --glass-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  --border-radius-lg: 1.25rem;
+  --border-radius-md: 0.75rem;
 }
 
     html {
