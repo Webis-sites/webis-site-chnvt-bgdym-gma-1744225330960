@@ -1,11 +1,24 @@
 {
-  "timestamp": "2025-04-09T19:02:51.914Z",
+  "timestamp": "2025-04-09T19:03:43.029Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 2,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section with headline, subheadline, and prominent CTA for a clothing store"
+    },
+    {
+      "name": "FeaturedProducts",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of premium clothing products with elegant presentation"
+    }
+  ],
   "repoName": "webis-site-chnvt-bgdym-gma-1744225330960"
 }
